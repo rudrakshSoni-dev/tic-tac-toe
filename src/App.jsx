@@ -39,8 +39,6 @@ function Board({xIsNext,squares,onPlay}){
   
   return(
     <>
-
-    <div className="ignore"></div>
     <h3>{status}</h3>
     <div className='board'>
       <div className='board-row'>
@@ -102,6 +100,7 @@ function Game(){
       <div className="game-info">
         <ol>{moves}</ol>
       </div>
+      <div><p>new contribution</p></div>
      </div>
     </>
   )
