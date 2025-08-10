@@ -100,7 +100,7 @@ function Game(){
       <div className="game-info">
         <ol>{moves}</ol>
       </div>
-      <div><p>new contribution</p></div>
+      <div><p>new new contribution</p></div>
      </div>
     </>
   )
