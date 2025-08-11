@@ -101,6 +101,7 @@ function Game(){
         <ol>{moves}</ol>
       </div>
       <div><p>new new new contribution</p></div>
+      <div>new div</div>
      </div>
     </>
   )
